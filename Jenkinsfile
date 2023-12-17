@@ -22,5 +22,4 @@ sh "mvn clean install"
 // sh "docker push siddeshg672/devopsapp:test-deploy_${BUILD_NUMBER}"
 }
 }
-}
 
